@@ -4,6 +4,8 @@ Allows to convert from DJI SRT subtitles track of the flight into GPX and CSV fi
 
 The GUI is in Czech language only for now. 
 
+![GUI](gui.png?raw=true "GUI")
+
 You can use command line python file import_dron_srt.py as well.
 
 ## Compile on Windows
