@@ -1,0 +1,72 @@
+1
+00:00:00,000 --> 00:00:00,033
+<font size="28">FrameCnt: 1, DiffTime: 33ms
+2024-05-23 17:36:01.877
+[iso: 140] [shutter: 1/239.89] [fnum: 4.4] [ev: 0] [color_md : default] [ae_meter_md: 1] [focal_len: 643.30] [dzoom_ratio: 4.00], [latitude: 50.106373] [longitude: 14.495168] [rel_alt: 80.504 abs_alt: 327.094] [gb_yaw: -107.3 gb_pitch: -10.7 gb_roll: 0.0] </font>
+
+2
+00:00:00,033 --> 00:00:00,066
+<font size="28">FrameCnt: 2, DiffTime: 33ms
+2024-05-23 17:36:02.158
+[iso: 140] [shutter: 1/239.89] [fnum: 4.4] [ev: 0] [color_md : default] [ae_meter_md: 1] [focal_len: 643.30] [dzoom_ratio: 4.00], [latitude: 50.106374] [longitude: 14.495168] [rel_alt: 80.507 abs_alt: 327.097] [gb_yaw: -107.3 gb_pitch: -10.7 gb_roll: 0.0] </font>
+
+3
+00:00:00,066 --> 00:00:00,099
+<font size="28">FrameCnt: 3, DiffTime: 33ms
+2024-05-23 17:36:02.158
+[iso: 140] [shutter: 1/239.89] [fnum: 4.4] [ev: 0] [color_md : default] [ae_meter_md: 1] [focal_len: 643.30] [dzoom_ratio: 4.00], [latitude: 50.106374] [longitude: 14.495168] [rel_alt: 80.507 abs_alt: 327.097] [gb_yaw: -107.3 gb_pitch: -10.7 gb_roll: 0.0] </font>
+
+4
+00:00:00,099 --> 00:00:00,133
+<font size="28">FrameCnt: 4, DiffTime: 34ms
+2024-05-23 17:36:02.159
+[iso: 140] [shutter: 1/239.89] [fnum: 4.4] [ev: 0] [color_md : default] [ae_meter_md: 1] [focal_len: 643.30] [dzoom_ratio: 4.00], [latitude: 50.106374] [longitude: 14.495168] [rel_alt: 80.507 abs_alt: 327.097] [gb_yaw: -107.3 gb_pitch: -10.7 gb_roll: 0.0] </font>
+
+5
+00:00:00,133 --> 00:00:00,166
+<font size="28">FrameCnt: 5, DiffTime: 33ms
+2024-05-23 17:36:02.183
+[iso: 140] [shutter: 1/239.89] [fnum: 4.4] [ev: 0] [color_md : default] [ae_meter_md: 1] [focal_len: 643.30] [dzoom_ratio: 4.00], [latitude: 50.106374] [longitude: 14.495168] [rel_alt: 80.507 abs_alt: 327.097] [gb_yaw: -107.3 gb_pitch: -10.7 gb_roll: 0.0] </font>
+
+6
+00:00:00,166 --> 00:00:00,199
+<font size="28">FrameCnt: 6, DiffTime: 33ms
+2024-05-23 17:36:02.184
+[iso: 140] [shutter: 1/239.89] [fnum: 4.4] [ev: 0] [color_md : default] [ae_meter_md: 1] [focal_len: 643.30] [dzoom_ratio: 4.00], [latitude: 50.106374] [longitude: 14.495168] [rel_alt: 80.507 abs_alt: 327.097] [gb_yaw: -107.3 gb_pitch: -10.7 gb_roll: 0.0] </font>
+
+7
+00:00:00,199 --> 00:00:00,233
+<font size="28">FrameCnt: 7, DiffTime: 34ms
+2024-05-23 17:36:02.184
+[iso: 140] [shutter: 1/239.89] [fnum: 4.4] [ev: 0] [color_md : default] [ae_meter_md: 1] [focal_len: 643.30] [dzoom_ratio: 4.00], [latitude: 50.106374] [longitude: 14.495168] [rel_alt: 80.507 abs_alt: 327.097] [gb_yaw: -107.3 gb_pitch: -10.7 gb_roll: 0.0] </font>
+
+8
+00:00:00,233 --> 00:00:00,266
+<font size="28">FrameCnt: 8, DiffTime: 33ms
+2024-05-23 17:36:02.185
+[iso: 140] [shutter: 1/239.89] [fnum: 4.4] [ev: 0] [color_md : default] [ae_meter_md: 1] [focal_len: 643.30] [dzoom_ratio: 4.00], [latitude: 50.106374] [longitude: 14.495168] [rel_alt: 80.507 abs_alt: 327.097] [gb_yaw: -107.3 gb_pitch: -10.7 gb_roll: 0.0] </font>
+
+9
+00:00:00,266 --> 00:00:00,399
+<font size="28">FrameCnt: 9, DiffTime: 133ms
+2024-05-23 17:36:02.246
+[iso: 140] [shutter: 1/239.89] [fnum: 4.4] [ev: 0] [color_md : default] [ae_meter_md: 1] [focal_len: 643.30] [dzoom_ratio: 4.00], [latitude: 50.106374] [longitude: 14.495169] [rel_alt: 80.505 abs_alt: 327.094] [gb_yaw: -107.3 gb_pitch: -10.8 gb_roll: 0.0] </font>
+
+10
+00:00:00,399 --> 00:00:00,433
+<font size="28">FrameCnt: 10, DiffTime: 34ms
+2024-05-23 17:36:02.278
+[iso: 140] [shutter: 1/239.89] [fnum: 4.4] [ev: 0] [color_md : default] [ae_meter_md: 1] [focal_len: 643.30] [dzoom_ratio: 4.00], [latitude: 50.106374] [longitude: 14.495169] [rel_alt: 80.505 abs_alt: 327.094] [gb_yaw: -107.3 gb_pitch: -10.8 gb_roll: 0.0] </font>
+
+11
+00:00:00,433 --> 00:00:00,466
+<font size="28">FrameCnt: 11, DiffTime: 33ms
+2024-05-23 17:36:02.312
+[iso: 140] [shutter: 1/239.89] [fnum: 4.4] [ev: 0] [color_md : default] [ae_meter_md: 1] [focal_len: 643.30] [dzoom_ratio: 4.00], [latitude: 50.106374] [longitude: 14.495168] [rel_alt: 80.503 abs_alt: 327.093] [gb_yaw: -107.3 gb_pitch: -10.8 gb_roll: 0.0] </font>
+
+12
+00:00:00,466 --> 00:00:00,500
+<font size="28">FrameCnt: 12, DiffTime: 34ms
+2024-05-23 17:36:02.345
+[iso: 140] [shutter: 1/239.89] [fnum: 4.4] [ev: 0] [color_md : default] [ae_meter_md: 1] [focal_len: 643.30] [dzoom_ratio: 4.00], [latitude: 50.106374] [longitude: 14.495168] [rel_alt: 80.503 abs_alt: 327.093] [gb_yaw: -107.3 gb_pitch: -10.8 gb_roll: 0.0] </font>
+

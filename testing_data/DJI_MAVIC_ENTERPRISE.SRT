@@ -1,0 +1,59 @@
+1
+00:00:00,000 --> 00:00:00,039
+<font size="36">FrameCnt : 1, DiffTime : 39ms
+2024-05-20 15:43:15,129,161
+[iso : 100] [shutter : 1/640.0] [fnum : 280] [ev : 0] [ct : 5043] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 49.129338] [longtitude: 14.637413] [altitude: 499.411011] </font>
+
+2
+00:00:00,039 --> 00:00:00,079
+<font size="36">FrameCnt : 2, DiffTime : 40ms
+2024-05-20 15:43:15,169,150
+[iso : 100] [shutter : 1/640.0] [fnum : 280] [ev : 0] [ct : 5043] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 49.129338] [longtitude: 14.637413] [altitude: 499.411011] </font>
+
+3
+00:00:00,079 --> 00:00:00,119
+<font size="36">FrameCnt : 3, DiffTime : 40ms
+2024-05-20 15:43:15,209,139
+[iso : 100] [shutter : 1/640.0] [fnum : 280] [ev : 0] [ct : 5043] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 49.129337] [longtitude: 14.637417] [altitude: 499.411011] </font>
+
+4
+00:00:00,119 --> 00:00:00,159
+<font size="36">FrameCnt : 4, DiffTime : 40ms
+2024-05-20 15:43:15,249,130
+[iso : 100] [shutter : 1/640.0] [fnum : 280] [ev : 0] [ct : 5043] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 49.129337] [longtitude: 14.637417] [altitude: 499.411011] </font>
+
+5
+00:00:00,159 --> 00:00:00,199
+<font size="36">FrameCnt : 5, DiffTime : 40ms
+2024-05-20 15:43:15,289,119
+[iso : 100] [shutter : 1/640.0] [fnum : 280] [ev : 0] [ct : 5043] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 49.129337] [longtitude: 14.637421] [altitude: 499.329010] </font>
+
+6
+00:00:00,199 --> 00:00:00,239
+<font size="36">FrameCnt : 6, DiffTime : 40ms
+2024-05-20 15:43:15,329,110
+[iso : 100] [shutter : 1/640.0] [fnum : 280] [ev : 0] [ct : 5043] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 49.129337] [longtitude: 14.637421] [altitude: 499.329010] </font>
+
+7
+00:00:00,239 --> 00:00:00,279
+<font size="36">FrameCnt : 7, DiffTime : 40ms
+2024-05-20 15:43:15,369,100
+[iso : 100] [shutter : 1/640.0] [fnum : 280] [ev : 0] [ct : 5043] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 49.129337] [longtitude: 14.637421] [altitude: 499.329010] </font>
+
+8
+00:00:00,279 --> 00:00:00,319
+<font size="36">FrameCnt : 8, DiffTime : 40ms
+2024-05-20 15:43:15,409,088
+[iso : 100] [shutter : 1/640.0] [fnum : 280] [ev : 0] [ct : 5043] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 49.129337] [longtitude: 14.637423] [altitude: 499.329010] </font>
+
+9
+00:00:00,319 --> 00:00:00,359
+<font size="36">FrameCnt : 9, DiffTime : 40ms
+2024-05-20 15:43:15,449,079
+[iso : 100] [shutter : 1/640.0] [fnum : 280] [ev : 0] [ct : 5043] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 49.129337] [longtitude: 14.637423] [altitude: 499.329010] </font>
+
+10
+00:00:00,359 --> 00:00:00,399
+<font size="36">FrameCnt : 10, DiffTime : 40ms
+2024-05-20 15:43:15,489,069
+[iso : 100] [shutter : 1/640.0] [fnum : 280] [ev : 0] [ct : 5043] [color_md : default] [focal_len : 240] [dzoom_ratio: 10000, delta:0],[latitude: 49.129337] [longtitude: 14.637423] [altitude: 499.329010] </font>

@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>558</width>
-    <height>596</height>
+    <height>635</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,7 +17,7 @@
    <property name="geometry">
     <rect>
      <x>210</x>
-     <y>440</y>
+     <y>480</y>
      <width>121</width>
      <height>31</height>
     </rect>
@@ -29,9 +29,9 @@
   <widget class="QProgressBar" name="progressBar">
    <property name="geometry">
     <rect>
-     <x>20</x>
-     <y>500</y>
-     <width>521</width>
+     <x>10</x>
+     <y>540</y>
+     <width>531</width>
      <height>23</height>
     </rect>
    </property>
@@ -42,9 +42,9 @@
   <widget class="QLabel" name="labelStatus">
    <property name="geometry">
     <rect>
-     <x>20</x>
-     <y>540</y>
-     <width>501</width>
+     <x>10</x>
+     <y>580</y>
+     <width>531</width>
      <height>41</height>
     </rect>
    </property>
@@ -140,6 +140,22 @@
     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Umožňuje extrahovat dráhu letu DJI dronu z titulků videa, uložených v souborech s příponou SRT. Vyberte soubory, které chcete použít. Specifkujte výstupní adresář, kam mají být uloženy stopy dráhy letu a spusťte process. Do výstupního adresáře bude uložena dráha letu ve formátech GPX a CSV.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
    </property>
    <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QCheckBox" name="checkBoxReduce">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>440</y>
+     <width>521</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Odstranit příliš blízké body</string>
+   </property>
+   <property name="checked">
     <bool>true</bool>
    </property>
   </widget>

@@ -1,0 +1,100 @@
+1
+00:00:00,000 --> 00:00:00,033
+<font size="28">FrameCnt: 1, DiffTime: 33ms
+2024-05-20 15:06:07.221
+[iso: 100] [shutter: 1/400.0] [fnum: 2.8] [ev: -0.3] [focal_len: 47.00] [dzoom: 1.00] 
+[latitude: 49.125749] [longitude: 14.634775] [rel_alt: 54.821 abs_alt: 535.407] 
+[drone_speedx: 0.0 drone_speedy: 0.0 drone_speedz: -0.1] 
+[drone_yaw: -88.3 drone_pitch: 6.0 drone_roll: 0.7] 
+[gb_yaw: -75.6 gb_pitch: -12.5 gb_roll: 0.0] 
+
+0
+[ae_meter_md : 2] [dzoom_ratio: 10000, delta:0] [color_md : default] [ct : 5534] 
+[af cnn:1,4,1,0,env:0,move:6,laser:267569,8,0]
+vsync[   15560] target[-0.7850 0.0673 0.0866 0.6097], shift[0.000000, 0.000000]</font>
+
+2
+00:00:00,033 --> 00:00:00,066
+<font size="28">FrameCnt: 2, DiffTime: 33ms
+2024-05-20 15:06:07.257
+[iso: 100] [shutter: 1/400.0] [fnum: 2.8] [ev: -0.3] [focal_len: 47.00] [dzoom: 1.00] 
+[latitude: 49.125749] [longitude: 14.634775] [rel_alt: 54.821 abs_alt: 535.407] 
+[drone_speedx: 0.0 drone_speedy: 0.0 drone_speedz: -0.1] 
+[drone_yaw: -88.3 drone_pitch: 6.0 drone_roll: 0.7] 
+[gb_yaw: -75.6 gb_pitch: -12.5 gb_roll: 0.0] 
+
+0
+[ae_meter_md : 2] [dzoom_ratio: 10000, delta:0] [color_md : default] [ct : 5534] 
+[af cnn:1,4,1,0,env:0,move:6,laser:267569,8,0]
+vsync[   15561] target[-0.7850 0.0673 0.0866 0.6097], shift[0.000000, 0.000000]</font>
+
+3
+00:00:00,066 --> 00:00:00,100
+<font size="28">FrameCnt: 3, DiffTime: 34ms
+2024-05-20 15:06:07.283
+[iso: 100] [shutter: 1/400.0] [fnum: 2.8] [ev: -0.3] [focal_len: 47.00] [dzoom: 1.00] 
+[latitude: 49.125749] [longitude: 14.634775] [rel_alt: 54.821 abs_alt: 535.407] 
+[drone_speedx: 0.0 drone_speedy: 0.0 drone_speedz: -0.1] 
+[drone_yaw: -88.3 drone_pitch: 6.0 drone_roll: 0.7] 
+[gb_yaw: -75.6 gb_pitch: -12.5 gb_roll: 0.0] 
+
+0
+[ae_meter_md : 2] [dzoom_ratio: 10000, delta:0] [color_md : default] [ct : 5535] 
+[af cnn:1,4,1,0,env:0,move:6,laser:267569,8,0]
+vsync[   15562] target[-0.7850 0.0673 0.0866 0.6097], shift[0.000000, 0.000000]</font>
+
+4
+00:00:00,100 --> 00:00:00,133
+<font size="28">FrameCnt: 4, DiffTime: 33ms
+2024-05-20 15:06:07.315
+[iso: 100] [shutter: 1/400.0] [fnum: 2.8] [ev: -0.3] [focal_len: 47.00] [dzoom: 1.00] 
+[latitude: 49.125749] [longitude: 14.634775] [rel_alt: 54.832 abs_alt: 535.418] 
+[drone_speedx: 0.0 drone_speedy: 0.0 drone_speedz: -0.1] 
+[drone_yaw: -88.2 drone_pitch: 6.0 drone_roll: 0.7] 
+[gb_yaw: -75.6 gb_pitch: -12.5 gb_roll: 0.0] 
+
+0
+[ae_meter_md : 2] [dzoom_ratio: 10000, delta:0] [color_md : default] [ct : 5535] 
+[af cnn:1,4,1,0,env:0,move:6,laser:268599,8,0]
+vsync[   15563] target[-0.7850 0.0673 0.0866 0.6097], shift[0.000000, 0.000000]</font>
+
+5
+00:00:00,133 --> 00:00:00,166
+<font size="28">FrameCnt: 5, DiffTime: 33ms
+2024-05-20 15:06:07.349
+[iso: 100] [shutter: 1/400.0] [fnum: 2.8] [ev: -0.3] [focal_len: 47.00] [dzoom: 1.00] 
+[latitude: 49.125749] [longitude: 14.634775] [rel_alt: 54.832 abs_alt: 535.418] 
+[drone_speedx: 0.0 drone_speedy: 0.0 drone_speedz: -0.1] 
+[drone_yaw: -88.2 drone_pitch: 6.0 drone_roll: 0.7] 
+[gb_yaw: -75.6 gb_pitch: -12.5 gb_roll: 0.0] 
+
+0
+[ae_meter_md : 2] [dzoom_ratio: 10000, delta:0] [color_md : default] [ct : 5536] 
+[af cnn:1,4,1,0,env:0,move:6,laser:268599,8,0]
+vsync[   15564] target[-0.7850 0.0673 0.0866 0.6097], shift[0.000000, 0.000000]</font>
+
+6
+00:00:00,166 --> 00:00:00,200
+<font size="28">FrameCnt: 6, DiffTime: 34ms
+2024-05-20 15:06:07.382
+[iso: 100] [shutter: 1/400.0] [fnum: 2.8] [ev: -0.3] [focal_len: 47.00] [dzoom: 1.00] 
+[latitude: 49.125749] [longitude: 14.634775] [rel_alt: 54.832 abs_alt: 535.418] 
+[drone_speedx: 0.0 drone_speedy: 0.0 drone_speedz: -0.1] 
+[drone_yaw: -88.2 drone_pitch: 6.0 drone_roll: 0.7] 
+[gb_yaw: -75.6 gb_pitch: -12.5 gb_roll: 0.0] 
+
+0
+[ae_meter_md : 2] [dzoom_ratio: 10000, delta:0] [color_md : default] [ct : 5536] 
+[af cnn:1,4,1,0,env:0,move:6,laser:268599,8,0]
+vsync[   15565] target[-0.7850 0.0673 0.0866 0.6097], shift[0.000000, 0.000000]</font>
+
+7
+00:00:00,200 --> 00:00:00,233
+<font size="28">FrameCnt: 7, DiffTime: 33ms
+2024-05-20 15:06:07.421
+[iso: 100] [shutter: 1/400.0] [fnum: 2.8] [ev: -0.3] [focal_len: 47.00] [dzoom: 1.00] 
+[latitude: 49.125749] [longitude: 14.634775] [rel_alt: 54.876 abs_alt: 535.462] 
+[drone_speedx: 0.0 drone_speedy: 0.0 drone_speedz: 0.0] 
+[drone_yaw: -88.1 drone_pitch: 6.0 drone_roll: 0.8] 
+[gb_yaw: -75.6 gb_pitch: -12.5 gb_roll: 0.0]
+
